@@ -1,0 +1,78 @@
+* {
+  /* border: 1px solid red; */
+
+}
+
+body {
+  margin: 50px
+}
+
+.container {
+  text-align: center;
+  justify-content: center;
+  border-radius: 20px;
+  padding-bottom: 50px;
+  box-shadow: 1px 1px 10px;
+  width: 50%
+}
+
+h1 {
+  color: green;
+}
+
+div {
+  margin: 10px 0;
+  padding: 10px 20px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  border: 2px solid green;
+}
+
+img {
+  height: 50px;
+  width: 15%;
+}
+
+.currency {
+  font-weight: 600;
+  padding: 0 10px;
+  width:30%;
+}
+
+span {
+  width:50% ;
+  text-align: end;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+input {
+  height: 50px;
+  font-size: 20px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.reset {
+  background-color: rgb(1, 173, 24);
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  border: 1px solid white;
+}
+
+.reset:hover {
+  border: 1px solid green;
+  background-color: white;
+  color: green;
+
+}
+
+.textinput {
+  font-size: 30px;
+  border-radius: 10px;
+  border: 1px solid rgb(1, 173, 24);
+  padding: 0 15px;
+  width: 220px;
+
+}
